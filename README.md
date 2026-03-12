@@ -1,4 +1,3 @@
-md
 # VigoLabs
 
 Engineering systems for automation, AI agents and digital infrastructure.
